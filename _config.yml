@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shibasis Roy"
 title_separator          : "-"
 name                     : &name "Shibasis Roy"
-description              : &description "I am an Post-Doc at the Chennai Mathematical Sciences."
+description              : &description "I am a Post-Doc at Chennai Mathematical Sciences."
 url                      : https://shibasisr.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shibasisr/shibasisr.github.io"
@@ -87,7 +87,7 @@ author:
   location         : "shibasis.cmi@gmail.com"
   pubmed           :
   googlescholar    : 
-  researchgate     :  
+  researchgate     : "https://www.researchgate.net/profile/Shibasis-Roy" 
   uri              :
   bitbucket        :
   codepen          :
