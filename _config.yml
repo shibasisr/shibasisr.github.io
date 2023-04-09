@@ -11,7 +11,7 @@ title                    : "Shibasis Roy"
 title_separator          : "-"
 name                     : &name "Shibasis Roy"
 description              : &description "I am an Post-Doc at the Chennai Mathematical Sciences."
-url                      : https://priyanka-mondal.github.io
+url                      : https://shibasisr.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shibasisr/shibasisr.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
