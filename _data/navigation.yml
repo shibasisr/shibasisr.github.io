@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "About"
+    url: /about/    
+    
+  - title: "CV"
+    url: https://drive.google.com/file/d/xxx
+    
+  - title: "Publications"
+    url: /publications/ 
