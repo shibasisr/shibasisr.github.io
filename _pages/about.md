@@ -4,14 +4,14 @@ title: "About"
 permalink: about/
 author_profile: true
 
-I work on particle physics phenomenology focusing on bottom quark decays. In particular, I study the decays of bottom quark bound states which are produced copiously in experiments like Belle, Babar and LHCb. These decays play a very important role in our understanding of the Standard Model of elementary particles. My job is to analyze experimental signals of such bottom hadron decays using model-independent methods and look for footprints of physics beyond the Standard Model.
-
 <style type='text/css'>
 h2, h3, h4, h5, h6 {margin: 0;}
 .br {display: block; margin-bottom: 0em; margin: 0;} 
 </style>
 
 {% include base_path %}
+# xyz
+I work on particle physics phenomenology focusing on bottom quark decays. In particular, I study the decays of bottom quark bound states which are produced copiously in experiments like Belle, Babar and LHCb. These decays play a very important role in our understanding of the Standard Model of elementary particles. My job is to analyze experimental signals of such bottom hadron decays using model-independent methods and look for footprints of physics beyond the Standard Model.
 
 ## Employments
 ### - April 2023 - present : Postdoctoral fellow, Chennai Mathematical Institute, India.
