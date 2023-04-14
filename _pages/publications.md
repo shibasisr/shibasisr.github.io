@@ -31,3 +31,7 @@ author_profile: true
 -  **PhD Dissertation**, 
 [$SU(3)$-flavor analysis of hadronic bottom baryon decays](http://www.hbni.ac.in/phdthesis/phys/PHYS10201305004.pdf)
 
+
+**Lecture Notes**,
+[Renormalisation in Quantum Field Theory](https://arxiv.org/abs/1908.04075),  Written by Prof. Sunil Mukhi based on lecture notes originally taken by Shibasis Roy and Anirban Karan at [XXXI SERC THEP Main School](https://sites.google.com/site/sercthepmainschoolxxxi/home).
+
