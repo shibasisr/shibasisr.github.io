@@ -10,7 +10,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 </style>
 
 {% include base_path %}
-<br/>
+
 
 
 ## Employments
