@@ -14,6 +14,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 
 ## Employments
+
 ### - April 2023 - present : Postdoctoral fellow, Chennai Mathematical Institute, India.
 
 ### - Jan 2023 – February 2023 : Visitor, Indian Association for the Cultivation of Science, Calcutta, India.
@@ -36,6 +37,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 
 ## Education
+
 ### PhD: Institute of Mathematical Sciences (under Homi Bhaba National Institute), 2021 
 
 ### MSc: Institute of Mathematical Sciences, Chennai, India, 2015
@@ -46,6 +48,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 <br/>
 
 ## Talks and Posters
+
 ### “A reappraisal of $B \to \pi K$ decays” (invited talk) 
 presented at “Young Physicists’ Meet” (Zoom talk), Physical Research Laboratory, India, 24th February, 2022.
 
