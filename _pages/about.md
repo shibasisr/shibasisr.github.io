@@ -13,7 +13,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 
 
-## Employments
+## Employments:
 
 ### - April 2023 - present : Postdoctoral fellow, Chennai Mathematical Institute, India.
 
@@ -24,7 +24,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 <br/>
 <br/>
 
-## Research Experience and Interest
+## Research Experience and Interest:
 
 ### - Rare decays of B mesons and b-baryons
 
@@ -36,7 +36,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 <br/>
 
 
-## Education
+## Education:
 
 ### PhD: Institute of Mathematical Sciences (under Homi Bhaba National Institute), 2021 
 
@@ -47,7 +47,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 <br/>
 <br/>
 
-## Talks and Posters
+## Talks and Posters:
 
 ### “A reappraisal of $B \to \pi K$ decays” (invited talk) 
 presented at “Young Physicists’ Meet” (Zoom talk), Physical Research Laboratory, India, 24th February, 2022.
@@ -72,7 +72,8 @@ School of Physics (VSOP-22)”, Quy Nhon University, Vietnam, 8th September, 201
 <br/>
 <br/>
 
-## Participation in Workshops and Schools
+## Participation in Workshops and Schools:
+
 ### The 37th Advanced School in Theoretical Physics
 IIAS, Hebrew University of Jerusalem, December 2019-January 2020
 ### Workshop on High Energy Physics Phenomenology XVI
