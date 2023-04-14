@@ -28,8 +28,8 @@ author_profile: true
 - **Shibasis Roy**, Ria Sain, Rahul Sinha, [“Lepton mass effects and angular observables in $\Lambda_{b} \to \Lambda(\to p\pi)\ell^{+}\ell^{-}$ ”](https://doi.org/10.1103/PhysRevD.96.116005), Phys. Rev. D 96 no. 11, (2017) 116005,
 
  
--  **PhD Dissertation**, 
-[$SU(3)$-flavor analysis of hadronic bottom baryon decays](http://www.hbni.ac.in/phdthesis/phys/PHYS10201305004.pdf)
+**PhD Dissertation**, 
+Thesis title: [$SU(3)$-flavor analysis of hadronic bottom baryon decays](http://www.hbni.ac.in/phdthesis/phys/PHYS10201305004.pdf)
 
 
 **Lecture Notes**,
