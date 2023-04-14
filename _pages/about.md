@@ -10,8 +10,6 @@ h2, h3, h4, h5, h6 {margin: 0;}
 </style>
 
 {% include base_path %}
-# xyz
-I work on particle physics phenomenology focusing on bottom quark decays. In particular, I study the decays of bottom quark bound states which are produced copiously in experiments like Belle, Babar and LHCb. These decays play a very important role in our understanding of the Standard Model of elementary particles. My job is to analyze experimental signals of such bottom hadron decays using model-independent methods and look for footprints of physics beyond the Standard Model.
 
 ## Employments
 ### - April 2023 - present : Postdoctoral fellow, Chennai Mathematical Institute, India.
@@ -45,9 +43,9 @@ I work on particle physics phenomenology focusing on bottom quark decays. In par
 <br/>
 
 ## Talks and Posters
-### “A reappraisal of $B \to \pi K$ decays” (invited talk) presented at “Young Physicists’
-Meet” (Zoom talk), Physical Research Laboratory, India, 24th February, 2022.
-### blah 2
+### “A reappraisal of $B \to \pi K$ decays” (invited talk) presented at “Young Physicists’ Meet” (Zoom talk), Physical Research Laboratory, India, 24th February, 2022.
+
+### “CPV study in b-baryon hadronic decays using SU(3) symmetry” presented at “Rare Processes and Precision Frontier Townhall Meeting” (Zoom talk), 2nd October, 2020.
 <br/>
 <br/>
 
