@@ -25,7 +25,9 @@ author_profile: true
 
 - Luis Miguel García Martín, Brij Jashal, Fernando Martínez Vidal, Arantza Oyanguren, **Shibasis Roy**, Ria Sain, Rahul Sinha, [“Radiative $b$-baryon decays to measure the photon and $b$-baryon polarization,”](https://doi.org/10.1140/epjc/s10052-019-7123-7), Eur. Phys. J. C 79 no. 7, (2019) 634.
 
-- **Shibasis Roy**, Ria Sain, Rahul Sinha, [“Lepton mass effects and angular observables in $\Lambda_{b} \to \Lambda(\to p\pi)\ell^{+}\ell^{-}$ ,”](https://doi.org/10.1103/PhysRevD.96.116005), Phys. Rev. D 96 no. 11, (2017) 116005,
--  **PhD Dissertation**, 
+- **Shibasis Roy**, Ria Sain, Rahul Sinha, [“Lepton mass effects and angular observables in $\Lambda_{b} \to \Lambda(\to p\pi)\ell^{+}\ell^{-}$ ”](https://doi.org/10.1103/PhysRevD.96.116005), Phys. Rev. D 96 no. 11, (2017) 116005,
 
+ 
+-  **PhD Dissertation**, 
+[$SU(3)$-flavor analysis of hadronic bottom baryon decays](http://www.hbni.ac.in/phdthesis/phys/PHYS10201305004.pdf)
 
