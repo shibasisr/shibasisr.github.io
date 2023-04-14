@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 - **Shibasis Roy**, N G Deshpande, Rahul Sinha, and A Kundu,
-"[Extracting γ from CP violating decays of bottom baryons,](https://arxiv.org/abs/2303.02591)", 
+"[Extracting $\gamma$ γ from CP violating decays of bottom baryons,](https://arxiv.org/abs/2303.02591)", 
 
 - Rahul Sinha, **Shibasis Roy** and N G Deshpande,
 "[Measuring CP violating phase in beauty baryon decays,](https://doi.org/10.1103/PhysRevLett.128.081803), Phys. Rev. Lett. 128 (2022) no.8, 081803"   [(Slides)](https://drive.google.com/file/giveslideslink)
