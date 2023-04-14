@@ -29,4 +29,4 @@ author_profile: true
 -  **PhD Dissertation**, 
 
 
-{%\* indicates equal contribution.}
+{%\* indicates equal contribution.%}
