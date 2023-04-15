@@ -14,7 +14,6 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 
 ## <code style="color : Blue">Employments</code>
-<br/>
 
 - April 2023 - present : Postdoctoral fellow, Chennai Mathematical Institute, India.
 
@@ -22,7 +21,6 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 - December 2020 – December 2022 : Research Associate, Rajabazar Science College, University of Calcutta, India.
 
-<br/>
 
 {%## Research Experience and Interest:
 <br/>
@@ -36,13 +34,13 @@ h2, h3, h4, h5, h6 {margin: 0;}
 <br/>%}
 
 
-## Education:
-<br/>
-### PhD: Institute of Mathematical Sciences (under Homi Bhaba National Institute), 2021 
+## <code style="color : Blue">Education</code>
 
-### MSc: Institute of Mathematical Sciences, Chennai, India, 2015
+- PhD: Institute of Mathematical Sciences (under Homi Bhaba National Institute), 2021 
 
-### BSc(Hons): Chennai Mathematical Institute, India, 2013
+-- MSc: Institute of Mathematical Sciences, Chennai, India, 2015
+
+-- BSc(Hons): Chennai Mathematical Institute, India, 2013
 
 <br/>
 
