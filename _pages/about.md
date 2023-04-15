@@ -43,7 +43,8 @@ ICISE, Vietnam, September 2018
 - 16th Conference on Flavor Physics and CP Violation (FPCP 2018)
 University of Hyderabad, July 2018
 - Workshop on High Energy Physics Phenomenology XV
-IISER, Bhopal, December 2017• XXXI SERC THEP Main School
+IISER, Bhopal, December 2017
+- XXXI SERC THEP Main School
 University of Kalyani, January 2017
 - 9th International Workshop on the CKM Unitarity Triangle 2016
 TIFR, Mumbai, December 2016
