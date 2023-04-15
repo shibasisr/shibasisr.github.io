@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <code style="color : Blue">Talks and Posters</code>
+title: "Talks and Posters"
 permalink: talks/
 author_profile: true
 ---
