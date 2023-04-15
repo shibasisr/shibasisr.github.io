@@ -6,6 +6,21 @@
    Default button
    ========================================================================== */
 
+.btn0 {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.btn0:hover {background: #eee;}
+
+.success {color: green;}
+
+
+
 .btn {
   /* default button */
   display: inline-block;
@@ -23,7 +38,7 @@
   cursor: pointer;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: mix(gray, #000, 20%);
   }
 
   .icon {
