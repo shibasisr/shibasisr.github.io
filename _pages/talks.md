@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Talks"
+title: <code style="color : Blue">Talks and Posters</code>
 permalink: talks/
 author_profile: true
 ---
 
----## <code style="color : Blue">Talks and Posters</code>
 
 ### “A reappraisal of $B \to \pi K$ decays” (invited talk) 
 presented at “Young Physicists’ Meet” (Zoom talk), Physical Research Laboratory, India, 24th February, 2022.
