@@ -12,10 +12,10 @@ author_profile: true
 {% include base_path %}
 
 - **Shibasis Roy**, N G Deshpande, Rahul Sinha, and A Kundu,
-"[Extracting $\gamma$ from CP violating decays of bottom baryons,](https://arxiv.org/abs/2303.02591)", 
+"[Extracting $\gamma$ from CP violating decays of bottom baryons,](https://arxiv.org/abs/2303.02591){:target="_blank"}", 
 
 - Rahul Sinha, **Shibasis Roy** and N G Deshpande,
-"[Measuring CP violating phase in beauty baryon decays,](https://doi.org/10.1103/PhysRevLett.128.081803){:target="_blank"}, Phys. Rev. Lett. 128 (2022) no.8, 081803"   [(Slides)](https://drive.google.com/file/giveslideslink)
+"[Measuring CP violating phase in beauty baryon decays,](https://doi.org/10.1103/PhysRevLett.128.081803){:target="_blank"}, Phys. Rev. Lett. 128 (2022) no.8, 081803"   [(Slides)](https://drive.google.com/file/giveslideslink){:target="_blank"}
 
 - Anirban Kundu, Sunando K. Patra, **Shibasis Roy**, "[Complete analysis of all $B \to \pi K$ decays,](https://doi.org/10.1103/PhysRevD.104.095025){:target="_blank"}, Phys. Rev. D 104 no. 9, (2021) 09502"
 
