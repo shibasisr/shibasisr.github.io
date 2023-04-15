@@ -38,9 +38,9 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 - PhD: Institute of Mathematical Sciences (under Homi Bhaba National Institute), 2021 
 
--- MSc: Institute of Mathematical Sciences, Chennai, India, 2015
+- MSc: Institute of Mathematical Sciences, Chennai, India, 2015
 
--- BSc(Hons): Chennai Mathematical Institute, India, 2013
+- BSc(Hons): Chennai Mathematical Institute, India, 2013
 
 <br/>
 
