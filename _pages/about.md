@@ -16,9 +16,9 @@ author_profile: true
 
 ## <code style="color : Blue">Education</code>
 
-- 2015 - 2021: PhD, Institute of Mathematical Sciences (under Homi Bhaba National Institute), Chennai, India.
-- 2013 - 2015: MSc, Institute of Mathematical Sciences, Chennai, India.
-- 2010 - 2013: BSc(Hons), Chennai Mathematical Institute, India.
+- 2015 - 2021 : PhD, Institute of Mathematical Sciences (under Homi Bhaba National Institute), Chennai, India.
+- 2013 - 2015 : MSc, Institute of Mathematical Sciences, Chennai, India.
+- 2010 - 2013 : BSc(Hons), Chennai Mathematical Institute, India.
 
 
 ## <code style="color : Blue">Talks and Posters</code>
