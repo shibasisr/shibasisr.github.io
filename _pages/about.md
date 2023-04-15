@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<body style="background-color:aquamarine;">
+<body style="background-color:LightSkyBlue;">
 
 ## <code style="color : Blue">Employments</code>
 
