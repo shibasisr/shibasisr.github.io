@@ -18,16 +18,6 @@ author_profile: true
 - December 2020 – December 2022 : Research Associate, Rajabazar Science College, University of Calcutta, India.
 
 
-{%## Research Experience and Interest:
-<br/>
-### - Rare decays of B mesons and b-baryons
-
-### - CP violation in the SM and beyond
-
-### - Precision measurement of quark mixing angles
-
-### - Applications of SM effective field theory
-<br/>%}
 
 
 ## <code style="color : Blue">Education</code>
