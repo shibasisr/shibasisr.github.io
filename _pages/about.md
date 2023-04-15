@@ -24,7 +24,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 <br/>
 
-## Research Experience and Interest:
+{%## Research Experience and Interest:
 <br/>
 ### - Rare decays of B mesons and b-baryons
 
@@ -33,7 +33,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 ### - Precision measurement of quark mixing angles
 
 ### - Applications of SM effective field theory
-<br/>
+<br/>%}
 
 
 ## Education:
