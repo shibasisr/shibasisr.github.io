@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-## <code style="color : Blue">Employments</code>
+## <code style="color : Yellowgreen">Employments</code>
 
 - <b>April 2023 - present</b> : Postdoctoral fellow, Chennai Mathematical Institute, India.
 - <b>Jan 2023 - February 2023</b> : Visitor, Indian Association for the Cultivation of Science, Calcutta, India.
 - <b>December 2020 - December 2022</b> : Research Associate, Rajabazar Science College, University of Calcutta, India.
 
 
-## <code style="color : Blue">Education</code>
+## <code style="color : Yellowgreen">Education</code>
 
 - <b>2015 - 2021</b> : PhD, Institute of Mathematical Sciences (under Homi Bhaba National Institute), Chennai, India.
 - <b>2013 - 2015</b> : MSc, Institute of Mathematical Sciences, Chennai, India.
@@ -22,7 +22,7 @@ author_profile: true
 
 
 
-## <code style="color : Blue">Participation in Workshops and Schools</code>
+## <code style="color : Yellowgreen">Participation in Workshops and Schools</code>
 
 - The 37th Advanced School in Theoretical Physics
 IIAS, Hebrew University of Jerusalem, December 2019-January 2020
