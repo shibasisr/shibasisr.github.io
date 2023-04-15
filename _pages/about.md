@@ -9,21 +9,15 @@ author_profile: true
 
 ## <code style="color : Blue">Employments</code>
 
-- April 2023 - present : Postdoctoral fellow, Chennai Mathematical Institute, India.
-
-- Jan 2023 – February 2023 : Visitor, Indian Association for the Cultivation of Science, Calcutta, India.
-
-- December 2020 – December 2022 : Research Associate, Rajabazar Science College, University of Calcutta, India.
-
-
+- <h6>April 2023 - present</h6> : Postdoctoral fellow, Chennai Mathematical Institute, India.
+- Jan 2023 - February 2023 : Visitor, Indian Association for the Cultivation of Science, Calcutta, India.
+- December 2020 - December 2022 : Research Associate, Rajabazar Science College, University of Calcutta, India.
 
 
 ## <code style="color : Blue">Education</code>
 
 - 2015 - 2021: PhD, Institute of Mathematical Sciences (under Homi Bhaba National Institute), Chennai, India.
-
 - 2013 - 2015: MSc, Institute of Mathematical Sciences, Chennai, India.
-
 - 2010 - 2013: BSc(Hons), Chennai Mathematical Institute, India.
 
 
