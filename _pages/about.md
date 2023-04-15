@@ -7,6 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.btn:hover {background: #eee;}
+
+.success {color: green;}
+
 ## <code style="color : Yellowgreen">Employments</code>
 
 - <b>April 2023 - present</b> : Postdoctoral fellow, Chennai Mathematical Institute, India.
