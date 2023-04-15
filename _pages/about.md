@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<body style="background-color:LightSkyBlue;">
-
 ## <code style="color : Blue">Employments</code>
 
 - April 2023 - present : Postdoctoral fellow, Chennai Mathematical Institute, India.
