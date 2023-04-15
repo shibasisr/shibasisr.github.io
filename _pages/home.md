@@ -10,7 +10,7 @@ I work on particle physics phenomenology focusing on bottom quark decays. In par
 
 ## Latest News
 
-- April 2023, Joined [Chennai Mathematical Institute](https://www.cmi.ac.in){:target="_blank"} as a Postdoc.
+- April 2023, Joined [Chennai Mathematical Institute](https://www.cmi.ac.in){:target="_blank"}{:rel="noopener noreferrer"} as a Postdoc.
 - March 2023, our [paper](https://arxiv.org/abs/2303.02591) on extraction of the CKM unitarity angle $\gamma$ from bottom baryon decays is out on arXiv.
 - Our [work](http://www.hbni.ac.in/pdf/papernewsIMSc.pdf) featured in Homi Bhaba National Institute research nuggets. 
 - February 2022, Our [paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.081803) on measuring the CP violating phase in bottom baryon decays got accepted in **Physical Review Letters**!
