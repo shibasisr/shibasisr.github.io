@@ -4,7 +4,7 @@ title: "Shibasis Roy"
 excerpt: "Home"
 author_profile: true
 ---
-I was known to be the kid who broke things apart to figure out 'howstuffworks' causing a great deal of exasperation to the ones around me. My pursuit to explore the building blocks of everyday objects eventually led me towards studying elementary particle physics. The challenge of extracting meaningful information from myriad collisions of subatomic particles and validating it against theory predictions keeps me busy for most of the time. For the rest, I dabble with current technological advances and history of science.  
+I was known to be the kid who broke things apart to figure out 'howstuffworks' causing a great deal of exasperation to the ones around me. My pursuit to explore the building blocks of everyday objects eventually led me towards studying elementary particle physics. The challenge of extracting meaningful information from myriad collisions of subatomic particles and validating it against theory predictions keeps me occupied for most of the time. For the rest, I dabble with current technological advances and history of science.  
 
 
 
