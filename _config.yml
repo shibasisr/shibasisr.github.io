@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shibasis Roy"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shibasis Roy"
 description              : &description "Researcher"
