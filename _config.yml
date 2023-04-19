@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Shibasis Roy"
 title_separator          : #"-"
-name                     : &name 
+name                     : "Home"
 description              : &description "Researcher"
 url                      : https://shibasisr.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
