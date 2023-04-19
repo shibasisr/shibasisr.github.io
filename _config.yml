@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Shibasis Roy"
-title_separator          : #"-"
+title_separator          : "-"
 name                     : "Home"
 description              : &description "Researcher"
 url                      : https://shibasisr.github.io
