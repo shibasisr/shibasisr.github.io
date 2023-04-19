@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : #"-"
-name                     : #&name "Home"
+name                     : &name 
 description              : &description "Researcher"
 url                      : https://shibasisr.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
