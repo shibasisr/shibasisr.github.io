@@ -225,7 +225,7 @@ defaults:
       comments: true
   - scope:
       path: ""
-      type: home
+      type: home2
     values:
       layout: single
       author_profile: true
@@ -260,7 +260,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: about
+      type: teaching
     values:
       layout: single
       author_profile: true
