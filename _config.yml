@@ -174,9 +174,6 @@ kramdown:
 
 # Collections
 collections:
-   home:
-    output: true
-    permalink: /:collection/:path/
   about:
     output: true
     permalink: /:collection/:path/
