@@ -175,7 +175,7 @@ kramdown:
 # Collections
 collections:
   about:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
@@ -244,8 +244,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comment: false
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
