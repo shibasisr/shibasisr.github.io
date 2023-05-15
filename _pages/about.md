@@ -2,7 +2,7 @@
 layout: archive
 title: "About"
 permalink: about/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
