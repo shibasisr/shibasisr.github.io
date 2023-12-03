@@ -13,7 +13,8 @@ I work on particle physics phenomenology focusing on bottom quark decays. In par
 
 
 ## Latest News
-- September 2023, visiting [SCIPP](https://scipp.science.ucsc.edu/){:target="_blank"}{:rel="noopener noreferrer"}, UC Santa Cruz. 
+- November 2023, Selected as a mentee for [LHC Early Carrer Mentorship Program](https://lhc-mentoring.web.cern.ch/){:target="_blank"}{:rel="noopener noreferrer"}.
+- September 2023, visiting [SCIPP](https://scipp.science.ucsc.edu/){:target="_blank"}{:rel="noopener noreferrer"}, University of California, Santa Cruz. 
 - April 2023, Joined [Chennai Mathematical Institute](https://www.cmi.ac.in){:target="_blank"}{:rel="noopener noreferrer"} as a Postdoc.
 - March 2023, our [paper](https://arxiv.org/abs/2303.02591){:target="_blank"}{:rel="noopener noreferrer"} on extraction of the CKM unitarity angle $\gamma$ from bottom baryon decays is out on arXiv.
 - Our [work](http://www.hbni.ac.in/pdf/papernewsIMSc.pdf){:target="_blank"}{:rel="noopener noreferrer"} featured in Homi Bhaba National Institute research nuggets. 
