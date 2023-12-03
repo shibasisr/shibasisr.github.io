@@ -4,7 +4,7 @@ title: "Who am I ?"
 excerpt: "Home"
 author_profile: true
 ---
-I was known to be the kid who broke things apart to figure out 'howstuffworks' causing a great deal of exasperation to the ones around me. My pursuit to explore the building blocks of everyday objects eventually led me towards studying elementary particle physics. The challenge of extracting meaningful information from myriad collisions of subatomic particles and validating it against theory predictions keeps me occupied for most of the time. For the rest, I dabble with current technological advances and history of science.  
+As a kid I often broke things apart to figure out 'howstuffworks' causing a great deal of exasperation to the ones around me. My pursuit to explore the building blocks of everyday objects eventually led me towards studying elementary particle physics. The challenge of extracting meaningful information from myriad collisions of subatomic particles and validating it against theory predictions keeps me occupied for most of the time. For the rest, I dabble with current technological advances and history of science.  
 
 
 
@@ -13,7 +13,7 @@ I work on particle physics phenomenology focusing on bottom quark decays. In par
 
 
 ## Latest News
-
+- September 2023, visiting [SCIPP](https://scipp.science.ucsc.edu/){:target="_blank"}{:rel="noopener noreferrer"}, UC Santa Cruz. 
 - April 2023, Joined [Chennai Mathematical Institute](https://www.cmi.ac.in){:target="_blank"}{:rel="noopener noreferrer"} as a Postdoc.
 - March 2023, our [paper](https://arxiv.org/abs/2303.02591){:target="_blank"}{:rel="noopener noreferrer"} on extraction of the CKM unitarity angle $\gamma$ from bottom baryon decays is out on arXiv.
 - Our [work](http://www.hbni.ac.in/pdf/papernewsIMSc.pdf){:target="_blank"}{:rel="noopener noreferrer"} featured in Homi Bhaba National Institute research nuggets. 
