@@ -5,6 +5,8 @@ permalink: talks/
 author_profile: true
 ---
 
+### [“Measurement of CP-violating phase in bottom baryon decays”](https://drive.google.com/file/d/15kkUjyc19WUjH4HBHSjPOVjsXxGDujg8/view?usp=drive_link){:target="_blank"}, 
+presented at “APS April meeting 2024", Sacramento, 6th April, 2024.
 
 ### [“A reappraisal of $B \to \pi K$ decays” (invited talk)](https://drive.google.com/file/d/1TgGblPtLa_7zY6eSQSwzuSHTUtRHfQvg/view?usp=sharing){:target="_blank"}, 
 presented at “Young Physicists’ Meet” (Zoom talk), Physical Research Laboratory, India, 24th February, 2022.
