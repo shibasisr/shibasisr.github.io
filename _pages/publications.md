@@ -10,9 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-- **Shibasis Roy**, "[$CP$-violation and $U$-spin symmetry in four-body bottom baryon decays,](https://doi.org/10.1016/j.physletb.2025.139838){:target="_blank"}"
+- **Shibasis Roy**, "[$CP$-violation and $U$-spin symmetry in four-body bottom baryon decays,](https://doi.org/10.1016/j.physletb.2025.139838){:target="_blank"}, Phys.Lett.B 869 (2025) 139838"
 - Bhubanjyoti Bhattacharya, Alakabha Datta, Gaber Faisel, Shaaban Khalil, **Shibasis Roy** "[Flavor Violations in $B$-Mesons within Non-Minimal SU(5),](https://arxiv.org/abs/2412.16115){:target="_blank"}"
-- Wolfgang Altmannshofer, **Shibasis Roy**, "[Joint explanation of the $B\to \pi K$ puzzle and the $B \to K\nu \bar{\nu}$ excess,](https://doi.org/10.1103/PhysRevD.111.075029){:target="_blank"}"
+- Wolfgang Altmannshofer, **Shibasis Roy**, "[Joint explanation of the $B\to \pi K$ puzzle and the $B \to K\nu \bar{\nu}$ excess,](https://doi.org/10.1103/PhysRevD.111.075029){:target="_blank"}, Phys.Rev.D 111 (2025) 7, 075029"
 - **Shibasis Roy**, N G Deshpande, Rahul Sinha, and A Kundu,
 "[Extracting $\gamma$ from CP violating decays of bottom baryons,](https://arxiv.org/abs/2303.02591){:target="_blank"}", 
 
