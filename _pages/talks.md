@@ -5,6 +5,15 @@ permalink: talks/
 author_profile: true
 ---
 
+### [“Measuring polarized $\Lambda_{b}^{0}\to \Lambda^{0}\nu \bar{\nu}$ observables”](https://drive.google.com/file/d/18KdICJdABtMygpqWFa1T3AJHc7eZdwak/view?usp=drive_link){:target="_blank"}, 
+presented at “FCC Rare Decays Working Group Meeting", CERN (virtual) 9th February, 2026.
+
+### [“An axion-like particle explanation of $B\to \pi K$ puzzle and $B^{+}\to K^{+}\nu \bar{\nu}$ excess”](https://drive.google.com/file/d/1cOv4xry1RYKkmfQMWKdWy05-T3K-pK9Y/view?usp=drive_link){:target="_blank"}, 
+presented at “BEACH 2024: XV International Conference on Beauty, Charm, Hyperons in Hadronic Interactions", Charleston, University of South Carolina, 4th June, 2024.
+
+### [“An axion-like particle explanation of $B\to \pi K$ puzzle and $B^{+}\to K^{+}\nu \bar{\nu}$ excess”](https://drive.google.com/file/d/1cOv4xry1RYKkmfQMWKdWy05-T3K-pK9Y/view?usp=drive_link){:target="_blank"}, 
+presented at “APS DPF-PHENO 2024", University of Pittsburgh, 16th May, 2024.
+
 ### [“Measurement of CP-violating phase in bottom baryon decays”](https://drive.google.com/file/d/15kkUjyc19WUjH4HBHSjPOVjsXxGDujg8/view?usp=drive_link){:target="_blank"}, 
 presented at “APS April meeting 2024", Sacramento, 6th April, 2024.
 
