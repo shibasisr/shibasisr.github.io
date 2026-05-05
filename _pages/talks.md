@@ -9,7 +9,7 @@ author_profile: true
 presented at “FCC Rare Decays Working Group Meeting", CERN (virtual) 9th February, 2026.
 
 ### [“A flavor symmetry based analysis of bottom baryon decays”](https://drive.google.com/file/d/1pBIcfuDZXlEo6tiMhStxu5vBS58ivnlZ/view?usp=drive_link){:target="_blank"}, 
-presented (virtually) at NCBJ, Warsaw, 26th November, 2025.
+presented (virtual) at NCBJ, Warsaw, 26th November, 2025.
 
 ### [“An axion-like particle explanation of $B\to \pi K$ puzzle and $B^{+}\to K^{+}\nu \bar{\nu}$ excess”](https://drive.google.com/file/d/1cOv4xry1RYKkmfQMWKdWy05-T3K-pK9Y/view?usp=drive_link){:target="_blank"}, 
 presented at “BEACH 2024: XV International Conference on Beauty, Charm, Hyperons in Hadronic Interactions", Charleston, University of South Carolina, 4th June, 2024.
