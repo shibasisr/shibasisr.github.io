@@ -1,18 +1,15 @@
 ---
 permalink: /
-title: "Who am I ?"
+title: "Introduction"
 excerpt: "Home"
 author_profile: true
 ---
-As a kid I often broke things apart to figure out 'howstuffworks' causing a great deal of exasperation to the ones around me. My pursuit to explore the building blocks of everyday objects eventually led me towards studying elementary particle physics. The challenge of extracting meaningful information from myriad collisions of subatomic particles and validating it against theory predictions keeps me occupied for most of the time. For the rest, I dabble with current technological advances and history of science.  
+From a young age, I was fascinated by how things work—a curiosity that eventually led me to elementary particle physics. I study the decays of bottom quark bound states at experiments like Belle, BaBar, and LHCb, analyzing their signals to test the Standard Model and search for signs of new physics.
 
-
-
-
-I work on particle physics phenomenology focusing on bottom quark decays. In particular, I study the decays of bottom quark bound states which are produced copiously in experiments like Belle, Babar and LHCb. These decays play a very important role in our understanding of the Standard Model of elementary particles. My job is to analyze experimental signals of such bottom hadron decays using model-independent methods and look for footprints of physics beyond the Standard Model.
-
+Outside of research, I enjoy exploring emerging technologies, delving into the history of science, and studying the science behind Formula 1 racing, where physics, engineering, and strategy intersect in exciting ways.
 
 ## Latest News
+- March 2025, CP-violation in baryons observed at $>5 \sigma$ at [LHCb](https://lhcb-outreach.web.cern.ch/2025/03/25/observation-of-the-different-behaviour-of-baryonic-matter-and-antimatter/#:~:text=The%20difference%20in%20the%20number%20of%20%CE%9Bb0,deviations%20implies%20the%20observation%20of%20CP%20violation.){:target="_blank"}{:rel="noopener noreferrer"} for the first time! [Read my subsequent analysis where it may be observed next.](https://www.sciencedirect.com/science/article/pii/S0370269325005982?via%3Dihub){:target="_blank"}{:rel="noopener noreferrer"}.
 - November 2023, Selected as a mentee for [LHC Early Carrer Mentorship Program](https://lhc-mentoring.web.cern.ch/){:target="_blank"}{:rel="noopener noreferrer"}.
 - September 2023, visiting [SCIPP](https://scipp.science.ucsc.edu/){:target="_blank"}{:rel="noopener noreferrer"}, University of California, Santa Cruz. 
 - April 2023, Joined [Chennai Mathematical Institute](https://www.cmi.ac.in){:target="_blank"}{:rel="noopener noreferrer"} as a Postdoc.
