@@ -1,11 +1,11 @@
 # main links links
 main:
    
-  - title: "About"
+  - title: "Project"
     url: /about/    
     
   - title: "CV"
-    url: https://drive.google.com/file/d/1-CGAIswVxES_YzVWfER8ISluR4ZGSVOS/view?usp=drive_link
+    url: https://drive.google.com/file/d/1ILUM1M39OFwPO83gfduRXl7Xt3bj18Hw/view?usp=drive_link
     target: "_blank"
     
   - title: "Publications"
