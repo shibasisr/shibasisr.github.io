@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SU(3) Isoscalar Factors</title>
+<style>
+  :root { --bg:#fff; --fg:#1a1a1a; --muted:#666; --line:#ddd; --accent:#2457a6; --err:#b00020; --cell:#f6f7f9; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#16181c; --fg:#e6e6e6; --muted:#9a9a9a; --line:#333; --accent:#7aa7ff; --err:#ff6b81; --cell:#1f2228; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.5 system-ui, sans-serif; }
+  main { max-width:860px; margin:0 auto; padding:24px 16px 48px; }
+  h1 { font-size:1.5rem; margin:0 0 4px; }
+  .sub { color:var(--muted); margin:0 0 24px; font-size:0.95rem; }
+  fieldset { border:1px solid var(--line); border-radius:8px; margin:0 0 16px; padding:12px 16px 16px; }
+  legend { padding:0 6px; font-weight:600; }
+  .row { display:flex; flex-wrap:wrap; gap:12px; align-items:flex-end; }
+  label { display:flex; flex-direction:column; font-size:0.85rem; color:var(--muted); }
+  input, select { font:inherit; color:var(--fg); background:var(--bg); border:1px solid var(--line); border-radius:6px; padding:6px 8px; width:90px; }
+  select { width:150px; }
+  .dim { color:var(--muted); font-size:0.9rem; padding-bottom:8px; }
+  button { font:inherit; background:var(--accent); color:#fff; border:0; border-radius:6px; padding:8px 20px; cursor:pointer; }
+  button:disabled { opacity:0.6; cursor:default; }
+  .err { color:var(--err); margin:12px 0; }
+  .block { margin:20px 0; }
+  .block h3 { font-size:1rem; margin:0 0 6px; }
+  .scroll { overflow-x:auto; }
+  table { border-collapse:collapse; min-width:100%; font-variant-numeric:tabular-nums; }
+  th, td { border:1px solid var(--line); padding:6px 10px; text-align:left; white-space:nowrap; }
+  th { background:var(--cell); font-weight:600; }
+  td .num { color:var(--muted); font-size:0.85rem; }
+  .none { color:var(--muted); font-size:0.9rem; }
+  #counter { margin-top:32px; padding-top:12px; border-top:1px solid var(--line); color:var(--muted); font-size:0.9rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>SU(3) Isoscalar Factors</h1>
+  <p class="sub">&lang;(p<sub>1</sub>,q<sub>1</sub>) I<sub>1</sub> Y<sub>1</sub> ; (p<sub>2</sub>,q<sub>2</sub>) I<sub>2</sub> Y<sub>2</sub> &#8214; (p,q)<sub>&rho;</sub> I Y&rang;.
+    Based on the method of T. A. Kaeding and H. T. Williams, Comput. Phys. Commun. 98 (1996) 398.
+    Results are shown in exact form, with the decimal value below. Inputs are limited to p<sub>1</sub>+q<sub>1</sub>+p<sub>2</sub>+q<sub>2</sub> &le; 8.</p>
+
+  <form id="f">
+    <fieldset>
+      <legend>First state</legend>
+      <div class="row">
+        <label>p<sub>1</sub><input id="p1" type="number" min="0" value="1" required></label>
+        <label>q<sub>1</sub><input id="q1" type="number" min="0" value="1" required></label>
+        <span class="dim" id="d1"></span>
+        <label>(Y<sub>1</sub>, I<sub>1</sub>)<select id="s1"></select></label>
+      </div>
+    </fieldset>
+    <fieldset>
+      <legend>Second state</legend>
+      <div class="row">
+        <label>p<sub>2</sub><input id="p2" type="number" min="0" value="1" required></label>
+        <label>q<sub>2</sub><input id="q2" type="number" min="0" value="1" required></label>
+        <span class="dim" id="d2"></span>
+        <label>(Y<sub>2</sub>, I<sub>2</sub>)<select id="s2"></select></label>
+      </div>
+    </fieldset>
+    <fieldset>
+      <legend>Final state (optional; leave blank to list all)</legend>
+      <div class="row">
+        <label>p<input id="pf" type="number" min="0"></label>
+        <label>q<input id="qf" type="number" min="0"></label>
+        <label>Y<input id="Yf" type="text" placeholder="e.g. 0"></label>
+        <label>I<input id="If" type="text" placeholder="e.g. 1/2"></label>
+      </div>
+    </fieldset>
+    <button id="go" type="submit">Compute</button>
+  </form>
+
+  <div id="err" class="err" hidden></div>
+  <div id="out"></div>
+  <div id="counter"></div>
+</main>
+
+<script>
+const API_BASE = /pythonanywhere\.com$|^localhost$|^127\.0\.0\.1$/.test(location.hostname)
+  ? "" : "https://shibasisr.pythonanywhere.com";
+
+const $ = id => document.getElementById(id);
+
+function dim(p, q) { return (p + 1) * (q + 1) * (p + q + 2) / 2; }
+
+function showError(msg) {
+  $("err").textContent = msg;
+  $("err").hidden = !msg;
+}
+
+async function api(path, opts) {
+  const r = await fetch(API_BASE + path, opts);
+  const j = await r.json().catch(() => ({ error: "Server error" }));
+  if (!r.ok) throw new Error(j.error || "Server error");
+  return j;
+}
+
+async function loadStates(n) {
+  const p = parseInt($("p" + n).value), q = parseInt($("q" + n).value);
+  const sel = $("s" + n);
+  sel.innerHTML = "";
+  $("d" + n).textContent = (p >= 0 && q >= 0) ? "dim " + dim(p, q) : "";
+  if (!(p >= 0 && q >= 0)) return;
+  try {
+    const j = await api(`/api/states?p=${p}&q=${q}`);
+    for (const s of j.states) {
+      const o = document.createElement("option");
+      o.value = s.Y + "|" + s.I;
+      o.textContent = `Y = ${s.Y},  I = ${s.I}`;
+      sel.appendChild(o);
+    }
+    showError("");
+  } catch (e) { showError(e.message); }
+}
+
+function showCounts(c) {
+  $("counter").textContent =
+    `This calculator has been used ${c.queries.toLocaleString()} times by ${c.users.toLocaleString()} visitors.`;
+}
+
+function render(result) {
+  const out = $("out");
+  out.innerHTML = "";
+  let any = false;
+  for (const b of result) {
+    if (!b.rows.length) continue;
+    any = true;
+    const div = document.createElement("div");
+    div.className = "block";
+    const h = document.createElement("h3");
+    h.textContent = `(p, q) = (${b.pf}, ${b.qf}),  dim ${dim(b.pf, b.qf)}` +
+      (b.deg > 1 ? `,  outer multiplicity ${b.deg}` : "");
+    div.appendChild(h);
+    const wrap = document.createElement("div");
+    wrap.className = "scroll";
+    const t = document.createElement("table");
+    let head = "<tr><th>Y</th><th>I</th>";
+    for (let r = 1; r <= b.deg; r++) head += b.deg > 1 ? `<th>&rho; = ${r}</th>` : "<th>Isoscalar factor</th>";
+    t.innerHTML = head + "</tr>";
+    for (const row of b.rows) {
+      const tr = document.createElement("tr");
+      const cells = [row.Y, row.I];
+      tr.innerHTML = cells.map(c => `<td>${c}</td>`).join("") +
+        row.values.map(v => `<td>${v.exact}<br><span class="num">${v.float.toPrecision(10)}</span></td>`).join("");
+      t.appendChild(tr);
+    }
+    wrap.appendChild(t);
+    div.appendChild(wrap);
+    out.appendChild(div);
+  }
+  if (!any) out.innerHTML = '<p class="none">No allowed final states for these inputs.</p>';
+}
+
+$("f").addEventListener("submit", async ev => {
+  ev.preventDefault();
+  const [Y1, I1] = $("s1").value.split("|");
+  const [Y2, I2] = $("s2").value.split("|");
+  const body = {
+    p1: $("p1").value, q1: $("q1").value, Y1, I1,
+    p2: $("p2").value, q2: $("q2").value, Y2, I2,
+    pf: $("pf").value, qf: $("qf").value, Yf: $("Yf").value, If: $("If").value,
+  };
+  $("go").disabled = true;
+  try {
+    const j = await api("/api/isf", {
+      method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body),
+    });
+    showError("");
+    render(j.result);
+    showCounts(j.counts);
+  } catch (e) { showError(e.message); }
+  $("go").disabled = false;
+});
+
+for (const n of [1, 2]) {
+  $("p" + n).addEventListener("change", () => loadStates(n));
+  $("q" + n).addEventListener("change", () => loadStates(n));
+  loadStates(n);
+}
+api("/api/count").then(showCounts).catch(() => {});
+</script>
+</body>
+</html>
