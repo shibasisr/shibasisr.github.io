@@ -18,7 +18,8 @@ author_profile: true
   decays of bottom baryons. Going beyond relations based on sum rules requires 
   knowing which reduced amplitudes contribute to each decay, and this is where the 
   isoscalar factors become important. As more decay modes are observed, these reduced amplitudes 
-  can be extracted directly from data.
+  can be extracted directly from data. Now runs as a web app: a Python (Flask) backend on PythonAnywhere, with this page as 
+  the front end.
 
 
 
